@@ -40,7 +40,7 @@ The tutorial covers the following topics:
 9. [Data Visualization](9.DataVisualization.ipynb)
 - Visual Representation
 
-10. [IO Operations](10.IOoperations.ipynb)
+10. [IO Operations](10.SavingFiles.ipynb)
 - Reading Data
 - Writing Data
 
